@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "name": "arham sidd",
+      "username": "arham77",
+      "email": "arhamsidd70@gmail.com",
+      "mobile": "7536828936",
+      "address": "amroha Delhi",
+      "id": 2
+    },
+    {
+      "name": "Rahul Gupta",
+      "username": "rahul34",
+      "email": "rahul4486@gmail.co",
+      "mobile": "09264972916",
+      "address": "Pathanpura Rath Hamirpur Utter Pradesh (210431)",
+      "id": 4
+    },
+    {
+      "name": "anshu kumar vishkarma",
+      "username": "anshu235",
+      "email": "anshu@gmail.com",
+      "mobile": "45795178122",
+      "address": "patel nagar Singorli",
+      "id": 6
+    },
+    {
+      "name": "aditi Soni ",
+      "username": "aditi1234",
+      "email": "aditi@gmail.com",
+      "mobile": "9758642451",
+      "address": "Pathanpura Rath Hamirpur Utter Pradesh (210431)",
+      "id": 7
+    },
+    {
+      "name": "sahista praveen",
+      "username": "sahistap123",
+      "email": "sahista@gmail.com",
+      "mobile": "1234567890",
+      "address": "Pathanpura Rath Hamirpur Utter Pradesh (210431)",
+      "id": 8
+    },
+    {
+      "name": "pranjal gupta",
+      "username": "pranjal66",
+      "email": "pranjal66@gmailcom",
+      "mobile": "09264972916",
+      "address": "Pathanpura Rath Hamirpur Utter Pradesh (210431)",
+      "id": 9
+    }
+  ]
+}

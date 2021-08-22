@@ -1,0 +1,2 @@
+*{padding:0;margin:0;box-sizing:border-box}@-webkit-keyframes example{0%{color:#00f}to{color:brown}}@keyframes example{0%{color:#00f}to{color:brown}}.logoweb{animation:example .5s infinite alternate-reverse}.error{height:80vh;display:flex;justify-content:center;align-items:center}.errorname{color:red;padding:10px}.not-found{position:fixed;top:0;width:100vw;height:100vh;background-color:#fff}.btnclass{margin-top:-400px;margin-left:500px}textarea{resize:none}
+/*# sourceMappingURL=main.b6a30fb3.chunk.css.map */
